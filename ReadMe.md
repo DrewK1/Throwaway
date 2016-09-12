@@ -14,7 +14,7 @@ Let's give it a go :) Also, try out [Introduction to GitHub](https://github.iop/
 
 ##Tracking `*.dll.refresh` files
 
-1.Open a gitshell
-2. Navigate to the website's bin folder
-3. type the following `git add -f *.dll.refresh` and press **Enter**
-4. Type the following `git commit -m "Force-add .dll.fresh files"` and press Enter
+##1.Open a gitshell
+##2. Navigate to the website's bin folder
+##3. type the following `git add -f *.dll.refresh` and press **Enter**
+##4. Type the following `git commit -m "Force-add .dll.fresh files"` and press Enter
